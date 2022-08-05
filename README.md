@@ -1,2 +1,2 @@
 # django-mysql-api
-## simple api creared with Python and Django
+## simple api created with Python, Django and MySQL
